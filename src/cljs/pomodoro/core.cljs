@@ -21,20 +21,39 @@
 ;; -------------------------
 ;; Components
 
+(def menu-large-screen
+  [:ul {:class "right hide-on-med-and-down"}
+   [:li
+    [:a {:href "#"}
+     "Navbar link"]]])
+
+(def menu-small-screen
+  [:ul {:id "nav-mobile"
+        :class "side-nav"}
+   [:li
+    [:a {:href "#"}
+     "Navbar link"]]])
+
+(def logo
+  [:img {:src   "images/icon.png"
+         :class "brand-logo"
+         :style {:height "50px"}}])
+
+(def nav-mobile-button
+  [:a {:id "button-collapse"
+       :href "#"
+       :data-activates "nav-mobile"
+       :class "button-collapse"}
+   [:i {:class "mdi-navigation-menu"}]])
+
 (def nav-bar
-  [:nav {:class "grey darken-3 z-depth-1"
+  [:nav {:class "grey darken-3"
          :role "navigation"}
    [:div {:class "nav-wrapper container"}
-    [:a {:id "logo-container"
-         :href "#"
-         :class "brand-logo"}
-     [:img {:src "images/icon.png"
-            :style {:height     "50px"
-                    :paddingTop "10px"}}]]
-    [:ul {:class "right hide-on-med-and-down"}
-     [:li
-      [:a {:href "#"}
-       "Navbar link"]]]]])
+    logo
+    menu-large-screen
+    menu-small-screen
+    nav-mobile-button]])
 
 (def action-button
   [:div {:class "fixed-action-btn"

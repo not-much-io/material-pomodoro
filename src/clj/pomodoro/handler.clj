@@ -21,7 +21,8 @@
      [:div#app]
      (include-js "https://code.jquery.com/jquery-2.1.1.min.js"
                  "js/app.js"
-                 "materialize/js/materialize.js")]]))
+                 "materialize/js/materialize.js"
+                 "materialize/js/init.js")]]))
 
 (defroutes routes
   (GET "/" [] home-page)

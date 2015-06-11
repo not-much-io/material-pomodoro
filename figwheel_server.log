@@ -731,3 +731,509 @@ notifying browser that file changed:  /pomodoro/core.js
 [0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
 [32mSuccessfully compiled "resources/public/js/app.js" in 0.116 seconds.[0m
 notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.126 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.116 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.114 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.127 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.116 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+ERROR: Map literal must contain an even number of forms on file /home/kristo/Projects/pomodoro/src/cljs/pomodoro/core.cljs, line 35, column 19
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.113 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.123 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.131 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+ERROR: Unmatched delimiter ) on file /home/kristo/Projects/pomodoro/src/cljs/pomodoro/core.cljs, line 41, column 37
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.123 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+WARNING: Use of undeclared Var pomodoro.core/nav-mobile-open at line 55 src/cljs/pomodoro/core.cljs
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.137 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.042 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.047 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.091 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+notifying browser that file changed:  /pomodoro/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.134 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.147 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.135 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.126 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.124 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.128 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.123 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.129 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.114 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.117 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.13 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.132 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.12 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.115 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+notifying browser that file changed:  /pomodoro/dev.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.166 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.137 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.171 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.121 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.119 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.157 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.118 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[31mCompiling "resources/public/js/app.js" failed.[0m
+clojure.lang.ExceptionInfo: failed compiling file:src/cljs/pomodoro/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4591)
+    cljs.compiler$compile_file$fn__3059.invoke (compiler.cljc:1146)
+    cljs.compiler$compile_file.invoke (compiler.cljc:1109)
+    cljs.compiler$compile_root.invoke (compiler.cljc:1181)
+    cljs.closure$compile_dir.invoke (closure.clj:385)
+    cljs.closure$eval3467$fn__3468.invoke (closure.clj:425)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    cljs.closure$eval3480$fn__3481.invoke (closure.clj:439)
+    cljs.closure$eval3420$fn__3421$G__3411__3428.invoke (closure.clj:331)
+    clojurescript_build.core.CompilableSourcePaths/fn (core.clj:19)
+    clojure.core$map$fn__4551.invoke (core.clj:2620)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:507)
+    clojure.core/seq (core.clj:135)
+    clojure.core$apply.invoke (core.clj:628)
+    clojure.core$mapcat.doInvoke (core.clj:2658)
+    clojure.lang.RestFn.invoke (RestFn.java:423)
+    clojurescript_build.core.CompilableSourcePaths._compile (core.clj:19)
+    cljs.closure$build.invoke (closure.clj:1475)
+    clojurescript_build.core$build_source_paths_STAR_.invoke (core.clj:153)
+    figwheel_sidecar.auto_builder$default_build_options$fn__17621.invoke (auto_builder.clj:77)
+    figwheel_sidecar.auto_builder$insert_figwheel_connect_script$fn__17654.invoke (auto_builder.clj:179)
+    figwheel_sidecar.auto_builder$warning$fn__17618.invoke (auto_builder.clj:73)
+    clojurescript_build.auto$time_build$fn__17414.invoke (auto.clj:55)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$after$fn__17420.invoke (auto.clj:64)
+    clojurescript_build.auto$error$fn__17423.invoke (auto.clj:71)
+    clojurescript_build.auto$before$fn__17417.invoke (auto.clj:60)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.125 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.122 seconds.[0m
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.042 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.114 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+notifying browser that file changed:  /pomodoro/dev.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.047 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  /pomodoro/core.js
+Figwheel: focusing on build-ids (app)
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.092 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /pomodoro/core.js
+notifying browser that file changed:  /pomodoro/dev.js

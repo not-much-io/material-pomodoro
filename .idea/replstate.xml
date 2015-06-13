@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1433984321106">{:repl-history {:ide [], :local [&quot;(if true \&quot;This\&quot;\n         \&quot;That\&quot;)&quot;], :remote []}}</component>
+  <component name="ReplState" timestamp="1434154136666">{:repl-history {:ide [], :local [&quot;(if true \&quot;This\&quot;\n         \&quot;That\&quot;)&quot; &quot;(str 0 0)&quot; &quot;(get-pomodoro-time)&quot; &quot;(app-state/get-pomodoro-time)&quot; &quot;(.Date 10)&quot; &quot;(js/Date 10)&quot; &quot;(js/Date. 10)&quot; &quot;(defn add-ten [x] (+ x 10))&quot; &quot;(println 10)&quot; &quot;(print 10)&quot; &quot;(js/Date.)&quot; &quot;(def x (atom nil))&quot; &quot;(swap! x 10)&quot; &quot;(swap! x #(1))&quot; &quot;(swap! x (fn [x] 1))&quot; &quot;x&quot; &quot;(swap! x (fn [] 1))&quot;], :remote []}}</component>
 </project>

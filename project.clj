@@ -18,7 +18,7 @@
                  [compojure "1.3.3"]
                  [hiccup "1.0.5"]
                  [environ "1.0.0"]
-                 [org.clojure/clojurescript "0.0-3291" :scope "provided"]
+                 [org.clojure/clojurescript "0.0-3308" :scope "provided"]
                  [secretary "1.2.3"]]
 
   :plugins [[lein-ring "0.9.1"]
@@ -70,7 +70,8 @@
                    :figwheel {:http-server-root "public"
                               :server-port 3449
                               :css-dirs ["resources/public/css"]
-                              :ring-handler pomodoro.handler/app}
+                              :ring-handler pomodoro.handler/app
+                              :load-warninged-code false}
 
                    :env {:dev true}
 

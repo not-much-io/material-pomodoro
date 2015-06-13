@@ -26,7 +26,7 @@
     <orderEntry type="library" name="Leiningen: lein-figwheel:0.3.3" level="project" />
     <orderEntry type="library" name="Leiningen: leiningen-core:2.5.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.7.0-RC1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Leiningen: org.clojure/clojurescript:0.0-3291" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Leiningen: org.clojure/clojurescript:0.0-3308" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.10" level="project" />
     <orderEntry type="library" name="Leiningen: pjstadig/humane-test-output:0.7.0" level="project" />
     <orderEntry type="library" name="Leiningen: prone:0.8.2" level="project" />

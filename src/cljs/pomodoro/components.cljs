@@ -51,9 +51,8 @@
     [:div {:class "section z-depth-2 grey darken-2"
            :style {:height "30%"}}
      [:div {:class "container center"}
-      [:h1 {:class "white-text"}
-       [:i {:class "mdi-image-timer"}]
-       timer-str]]]))
+      [:div {:class   "white-text"}
+       [:font {:size 10} timer-str]]]]))
 
 (defn work-time-slider []
   [:p {:class "range-field"}

@@ -45,8 +45,8 @@
          :on-click timer/toggle-pomodoro}
    [:a {:class "btn-floating btn-large waves-effect waves-light red z-depth-3"}
     [:i {:class (str "large " (if (= @timer/pomodoro-time-start timer/invalid-time)
-                               "mdi-av-play-arrow"
-                               "mdi-av-pause"))}]]])
+                                "mdi-av-play-arrow"
+                                "mdi-av-pause"))}]]])
 
 (defn timer []
   (let [timer-str @timer/pomodoro-time]
@@ -65,52 +65,56 @@
               :id        "work-time"
               :min       "0"
               :max       "120"
+              :class     @settings/settings-enabled-state
               :on-change (fn [e]
                            (settings/set-setting "work-time"
                                                  (.-target.value e)))
-              :value init-value}]]))
+              :value     init-value}]]))
 
 (defn break-time-slider []
   (let [init-value @settings/break-time]
     [:p {:class "range-field"}
      [:label {:for "break-time"}
       (string/replace "Break time (% min)" #"%" @settings/break-time)]
-     [:input {:type  "range"
-              :id    "break-time"
-              :min   "1"
-              :max   "60"
+     [:input {:type      "range"
+              :id        "break-time"
+              :min       "1"
+              :max       "60"
+              :class     @settings/settings-enabled-state
               :on-change (fn [e]
                            (settings/set-setting "break-time"
                                                  (.-target.value e)))
-              :value init-value}]]))
+              :value     init-value}]]))
 
 (defn long-break-time-slider []
   (let [init-value @settings/long-break-time]
     [:p {:class "range-field"}
      [:label {:for "long-break-time"}
       (string/replace "Long break time (% min)" #"%" @settings/long-break-time)]
-     [:input {:type  "range"
-              :id    "long-break-time"
-              :min   "0"
-              :max   "120"
+     [:input {:type      "range"
+              :id        "long-break-time"
+              :min       "0"
+              :max       "120"
+              :class     @settings/settings-enabled-state
               :on-change (fn [e]
                            (settings/set-setting "long-break-time"
                                                  (.-target.value e)))
-              :value init-value}]]))
+              :value     init-value}]]))
 
 (defn sessions-before-long-break-slider []
   (let [init-value @settings/sessions-before-long-rest]
     [:p {:class "range-field"}
      [:label {:for "sessions-before-rest"}
       (string/replace "Sessions before long rest (%)" #"%" @settings/sessions-before-long-rest)]
-     [:input {:type  "range"
-              :id    "sessions-before-rest"
-              :min   "0"
-              :max   "20"
+     [:input {:type      "range"
+              :id        "sessions-before-rest"
+              :min       "0"
+              :max       "20"
+              :class     @settings/settings-enabled-state
               :on-change (fn [e]
                            (settings/set-setting "sessions-before-long-rest"
                                                  (.-target.value e)))
-              :value init-value}]]))
+              :value     init-value}]]))
 
 (defn settings []
   [:div {:class "section"}

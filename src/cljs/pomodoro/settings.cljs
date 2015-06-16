@@ -6,6 +6,14 @@
 (defonce long-break-time (atom 15))
 (defonce sessions-before-long-rest (atom 4))
 
+(defonce settings-enabled-state (atom ""))
+
+(defn disable-settings []
+  (reset! settings-enabled-state "disabled"))
+
+(defn enable-settings []
+  (reset! settings-enabled-state ""))
+
 (defn set-setting [setting value]
   (let [atom-to-change (cond (= setting "work-time") work-time
                              (= setting "break-time") break-time

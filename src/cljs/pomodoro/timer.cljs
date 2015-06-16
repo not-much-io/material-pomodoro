@@ -1,10 +1,12 @@
 (ns pomodoro.timer
   (:require [reagent.core :refer [atom]]
-            [pomodoro.util :as util]))
+            [pomodoro.util :as util]
+            [pomodoro.settings :as settings]))
 
 (defonce invalid-time (js/Date.))
 (defonce pomodoro-time-start (atom invalid-time))
 (defonce pomodoro-time (atom "00:00:00"))
+(defonce pomodoro-state (atom "not-running"))
 
 (defonce update-pomodoro-time
   (js/setInterval
@@ -16,9 +18,11 @@
      50))
 
 (defn- start-pomodoro []
+  (settings/disable-settings)
   (reset! pomodoro-time-start (js/Date.)))
 
 (defn- stop-pomodoro []
+  (settings/enable-settings)
   (reset! pomodoro-time-start invalid-time))
 
 (defn toggle-pomodoro []

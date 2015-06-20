@@ -44,83 +44,82 @@
                     :right "24px"}
          :on-click timer/toggle-pomodoro}
    [:a {:class "btn-floating btn-large waves-effect waves-light red z-depth-3"}
-    [:i {:class (str "large " (if (= @timer/pomodoro-time-start timer/invalid-time)
+    [:i {:class (str "large " (if (= @timer/pomodoro-interval timer/standby-label)
                                 "mdi-av-play-arrow"
                                 "mdi-av-pause"))}]]])
 
 (defn timer []
-  (let [timer-str @timer/pomodoro-time]
+  (let [timer-str @timer/pomodoro-time-label
+        timer-state @timer/pomodoro-interval]
     [:div {:class "section z-depth-2 grey darken-2"
            :style {:height "30%"}}
      [:div {:class "container center"}
       [:div {:class   "white-text"}
-       [:font {:size 10} timer-str]]]]))
+       [:font {:size 10} timer-str]]
+      [:div {:class   "white-text"}
+       [:font {:size 5} timer-state]]]]))
 
-(defn work-time-slider []
-  (let [init-value @settings/work-time]
+(defn pomodoro-time-slider []
+  (let [set-at @settings/pomodoro-time]
     [:p {:class "range-field"}
-     [:label {:for "work-time"}
-      (string/replace "Work time (% min)" #"%" @settings/work-time)]
+     [:label {:for "pomodoro-time"}
+      (string/replace "pomodoro time (% min)" #"%" set-at)]
      [:input {:type      "range"
-              :id        "work-time"
+              :id        "pomodoro-time"
               :min       "0"
               :max       "120"
               :class     @settings/settings-enabled-state
               :on-change (fn [e]
-                           (settings/set-setting "work-time"
-                                                 (.-target.value e)))
-              :value     init-value}]]))
+                           (reset! settings/pomodoro-time (.-target.value e)))
+              :value     set-at}]]))
 
-(defn break-time-slider []
-  (let [init-value @settings/break-time]
+(defn short-break-time-slider []
+  (let [set-at @settings/short-break-time]
     [:p {:class "range-field"}
-     [:label {:for "break-time"}
-      (string/replace "Break time (% min)" #"%" @settings/break-time)]
+     [:label {:for "short-break-time"}
+      (string/replace "Short break time (% min)" #"%" set-at)]
      [:input {:type      "range"
-              :id        "break-time"
+              :id        "short-break-time"
               :min       "1"
               :max       "60"
               :class     @settings/settings-enabled-state
               :on-change (fn [e]
-                           (settings/set-setting "break-time"
-                                                 (.-target.value e)))
-              :value     init-value}]]))
+                           (reset! settings/short-break-time (.-target.value e)))
+              :value     set-at}]]))
 
 (defn long-break-time-slider []
-  (let [init-value @settings/long-break-time]
+  (let [set-at @settings/long-break-time]
     [:p {:class "range-field"}
      [:label {:for "long-break-time"}
-      (string/replace "Long break time (% min)" #"%" @settings/long-break-time)]
+      (string/replace "Long break time (% min)" #"%" set-at)]
      [:input {:type      "range"
               :id        "long-break-time"
               :min       "0"
               :max       "120"
               :class     @settings/settings-enabled-state
               :on-change (fn [e]
-                           (settings/set-setting "long-break-time"
-                                                 (.-target.value e)))
-              :value     init-value}]]))
+                           (reset! settings/long-break-time (.-target.value e)))
+              :value     set-at}]]))
 
 (defn sessions-before-long-break-slider []
-  (let [init-value @settings/sessions-before-long-rest]
+  (let [set-at @settings/sessions-before-long-rest]
     [:p {:class "range-field"}
      [:label {:for "sessions-before-rest"}
-      (string/replace "Sessions before long rest (%)" #"%" @settings/sessions-before-long-rest)]
+      (string/replace "Sessions before long break (%)" #"%" set-at)]
      [:input {:type      "range"
               :id        "sessions-before-rest"
               :min       "0"
               :max       "20"
               :class     @settings/settings-enabled-state
               :on-change (fn [e]
-                           (settings/set-setting "sessions-before-long-rest"
-                                                 (.-target.value e)))
-              :value     init-value}]]))
+                           (reset! settings/sessions-before-long-rest (.-target.value e)))
+              :value     set-at}]]))
 
 (defn settings []
   [:div {:class "section"}
    [:div {:class "container"}
     [:form {:action "#"}
-     [work-time-slider]
-     [break-time-slider]
+     [pomodoro-time-slider]
+     [short-break-time-slider]
      [long-break-time-slider]
      [sessions-before-long-break-slider]]]])

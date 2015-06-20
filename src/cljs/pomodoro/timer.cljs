@@ -22,15 +22,13 @@
   (< (interval->duration curr-interval) time))
 
 (defn- next-interval [curr-interval]
-  (cond (= curr-interval standby-label) standby-label
-        (= curr-interval standby-label) work-label
-        (= curr-interval work-label) (do
-                                       (if (> @session-nr
-                                              @settings/sessions-before-long-rest)
-                                         (do
-                                           (reset! session-nr 0)
-                                           long-break-label)
-                                         short-break-label))
+  (cond (= curr-interval standby-label) work-label
+        (= curr-interval work-label) (if (> @session-nr
+                                            @settings/sessions-before-long-rest)
+                                       (do
+                                         (reset! session-nr 0)
+                                         long-break-label)
+                                       short-break-label)
         (or (= curr-interval long-break-label)
             (= curr-interval short-break-label)) (do (swap! session-nr inc)
                                                      work-label)))
@@ -52,7 +50,7 @@
       (do
         (reset! pomodoro-time (+ @pomodoro-time 500))
         (reset! pomodoro-time-label (util/ms->time @pomodoro-time))))
-    1))
+    500))
 
 (defn- start-pomodoro []
   (settings/disable-settings)

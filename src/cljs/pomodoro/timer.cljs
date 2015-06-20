@@ -52,7 +52,7 @@
       (do
         (reset! pomodoro-time (+ @pomodoro-time 500))
         (reset! pomodoro-time-label (util/ms->time @pomodoro-time))))
-    500))
+    1))
 
 (defn- start-pomodoro []
   (settings/disable-settings)

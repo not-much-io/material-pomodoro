@@ -19,8 +19,8 @@
                                  "materialize/css/materialize.min.css"))]
     [:body
      [:div#app]
-     (include-js "https://code.jquery.com/jquery-2.1.1.min.js"
-                 "js/app.js"
+     (include-js "js/app.js"
+                 "https://code.jquery.com/jquery-2.1.1.min.js"
                  "materialize/js/materialize.js"
                  "materialize/js/init.js")]]))
 

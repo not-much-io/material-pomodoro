@@ -6,15 +6,21 @@
 (defn menu-large-screen []
   [:ul {:class "right hide-on-med-and-down"}
    [:li
-    [:a {:href "#"}
-     "Navbar link"]]])
+    [:a {:href "more-settings"}
+     "More settings"]]
+   [:li
+    [:a {:href "about"}
+     "About"]]])
 
 (defn menu-small-screen []
   [:ul {:id "nav-mobile"
         :class "side-nav"}
    [:li
-    [:a {:href "#"}
-     "Navbar link"]]])
+    [:a {:href "more-settings"}
+     "More settings"]]
+   [:li
+    [:a {:href "about"}
+     "About"]]])
 
 (defn logo []
   [:img {:src   "images/icon.png"

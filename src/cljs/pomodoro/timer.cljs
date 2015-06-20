@@ -45,8 +45,10 @@
   (js/setInterval
     #(if (= @pomodoro-interval standby-label)
       (do
-        (reset! pomodoro-time 0)
-        (reset! pomodoro-time-label "00:00:00"))
+        (if (not (or (= @pomodoro-time 0)
+                     (= @pomodoro-time-label "00:00:00")))
+          (reset! pomodoro-time 0)
+          (reset! pomodoro-time-label "00:00:00")))
       (do
         (reset! pomodoro-time (+ @pomodoro-time 500))
         (reset! pomodoro-time-label (util/ms->time @pomodoro-time))))

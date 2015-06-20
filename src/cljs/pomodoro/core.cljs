@@ -19,7 +19,11 @@
    [components/settings]])
 
 (defn about-page []
-  [:div [:h2 "About pomodoro"]
+  [:div [:h2 "About Material Pomodoro"]
+   [:div [:a {:href "#/"} "go to the home page"]]])
+
+(defn more-settings-page []
+  [:div [:h2 "More settings"]
    [:div [:a {:href "#/"} "go to the home page"]]])
 
 (defn current-page []
@@ -34,6 +38,9 @@
 
 (secretary/defroute "/about" []
                     (session/put! :current-page #'about-page))
+
+(secretary/defroute "/more-settings" []
+                    (session/put! :current-page #'more-settings-page))
 
 ;; -------------------------
 ;; History
